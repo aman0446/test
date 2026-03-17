@@ -4,6 +4,8 @@ import heapq
 
 
 '''
+#TwoSum
+
 Given an array of integers nums and an integer target, return the indices of the two numbers such that they add up to target.
 Assume exactly one solution exists, and you may not use the same element twice.
 
@@ -25,7 +27,7 @@ print(two_sum(nums, target))
 '''
 
 '''
-Group Anagrams
+#Group Anagrams
 
 Problem:
 Given an array of strings strs, group the anagrams together. You can return the answer in any order
